@@ -9,4 +9,4 @@ We have created 20 models in total and 8 models of each algorithm mention above.
 We created feature sets by doing correlation analysis, Standard Scaling, Normalization, and automatic Hyperparameter Tuning. 
 For automatic Hyperparameter Tuning, we use GridSearchCv on RandomForestRegressor, DecisionTreeRegressor.
 For the purpose of evaluation we use - r2 matrix and mean_ablsolute_error. 
-Conclusion -----> rf_model_3 created using StandardScaling dataset with all 13 features.
+Conclusion -----> rf_model_3 created using StandardScaling dataset with all 13 features, is best suited for this dataset.
